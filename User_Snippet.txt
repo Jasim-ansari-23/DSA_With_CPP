@@ -1,0 +1,19 @@
+C plus plus user snippet for vs code
+
+{
+	"C plus plus": {
+		"prefix": "Cpp boilerplate",
+		"body": [
+			"#include<bits/stdc++.h>",
+			"using namespace std;\n",
+			"int main()",
+			"{",
+			"\t$1",
+			"\treturn 0;",
+			"}",
+		],
+		"description": "boilerplate for c++"
+	}
+}
+
+//Use it to create boilerplate
